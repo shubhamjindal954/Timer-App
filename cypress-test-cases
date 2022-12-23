@@ -1,0 +1,6 @@
+describe('Timer-App', function() {
+
+  it('does something', function() {
+    cy.visit('https://o0ohxh-3000.preview.csb.app/');
+  });
+});  
